@@ -1,4 +1,4 @@
-Fork of PyDMD. MOSES SVD based DMD files can be found at `pydmd/moses*`
+Fork of PyDMD. MOSES SVD based DMD files can be found at `pydmd/moses*`. Requires MOSES-SVD to be copied to the local python package folder.
 
 
 <p align="center">
