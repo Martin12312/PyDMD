@@ -1,3 +1,6 @@
+Fork of PyDMD. MOSES SVD based DMD files can be found at `pydmd/moses*`
+
+
 <p align="center">
   <a href="http://mathlab.github.io/PyDMD/" target="_blank" >
     <img alt="Python Dynamic Mode Decomposition" src="readme/logo_PyDMD.png" width="200" />
